@@ -1,3 +1,3 @@
 $(function(){
-      $("#menu").load("/BasicSite/menu.html");
+      $("#menu").load("/whosatonthesink/menu.html");
     });
